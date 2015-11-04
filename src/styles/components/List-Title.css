@@ -1,0 +1,30 @@
+*{
+  margin:0;
+}
+
+
+.list-title-div{
+  padding: 0.5em 1em 0.5em 1em;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: rgb(94, 47, 119);
+
+}
+
+.name{
+display: inline-block;
+width: 33%
+}
+
+
+.expiry{
+  display: inline-block;
+  width: 33%
+
+}
+
+.quantity{
+  display: inline-block;
+  width: 33%
+
+}

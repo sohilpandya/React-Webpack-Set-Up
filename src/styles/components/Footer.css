@@ -1,0 +1,16 @@
+*{
+  margin:0;
+}
+
+.footer-container{
+  background-color: rgb(73, 37, 110);
+  /*position: absolute;*/
+  bottom: 0%;
+  width: 100%;
+}
+
+.footer-text{
+  text-align: center;
+  font-size: 2em;
+  padding: 1em 0em 1em 0em;
+}

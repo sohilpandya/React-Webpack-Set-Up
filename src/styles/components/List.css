@@ -1,0 +1,36 @@
+*{
+  margin:0;
+}
+
+.app-list{
+  text-align: center;
+  font-size: 1.5em;
+  padding: 0.5em 1em 0.5em 1em;
+  height:  1000px;
+}
+
+
+
+.list-div{
+  padding: 0.25em 0em 0.25em 0em;
+  text-align: center;
+
+}
+
+.list-item{
+display: inline-block;
+width: 33%
+}
+
+
+.expiry{
+  display: inline-block;
+  width: 33%
+
+}
+
+.quantity{
+  display: inline-block;
+  width: 33%
+
+}
