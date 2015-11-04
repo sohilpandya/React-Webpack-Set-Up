@@ -1,4 +1,9 @@
+*{
+  margin:0;
+}
 
 body {
-  background-color: yellow;
+  background-color: rgb(122, 63, 154);
+  color: rgb(195, 208, 224);
+  font-family: Helvetica;
 }

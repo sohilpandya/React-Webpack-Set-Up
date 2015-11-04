@@ -1,0 +1,14 @@
+*{
+  margin:0;
+}
+
+
+.header-container{
+  background-color: rgb(73, 37, 110);
+}
+
+.header-text{
+  text-align: center;
+  font-size: 2em;
+  padding: 1em 0em 1em 0em;
+}
