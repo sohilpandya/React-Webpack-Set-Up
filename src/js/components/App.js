@@ -5,6 +5,8 @@ var List = require('./List.js');
 var Listtitle = require('./List-Title.js');
 var Newitem = require('./Newitem.js');
 var ScrollToTop = require('react-scroll-up');
+var Countdown = require('react-the-final-countdown');
+
 
 var App = React.createClass({
 
@@ -29,6 +31,7 @@ var App = React.createClass({
         <ScrollToTop showUnder={250}>
           <span>SOHIL</span>
         </ScrollToTop>
+        <Countdown min = {0.1} msg ="Close the bloody fridge" afterUnmount = {this.afterUnmount}/>
         <Footer title="Thank You For Visiting The Fridge" />
 
       </div>
